@@ -28,7 +28,6 @@
 * Jeder, der es wünscht, bekommt Commit-Rechte auf das Repository.
 * Sind vor der Ausführung noch Befehle auszuführen, dann bitte ein Makefile erstellen, dass die Vorarbeiten mit einem simplen **make** erledigt
 * Für zusätzliche Dokumentation hier im Github idealerweise Markdown verwenden. Formatierungshilfe unter https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-* 
 
 ## Lizenz
 
