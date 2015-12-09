@@ -1,1 +1,1 @@
-# df_script_contest
+# debianforum.de Scripting Contest
