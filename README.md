@@ -18,7 +18,7 @@
 * begrenzte Aufgabe ( Nicht: Wer programmiert die beste Tabellenkalkulation )
 * Grosse Mengen an Testdaten bitte nicht einchecken, sondern nur verlinken, evtl mit Makefile, dass die Daten herunterlädt.
 
-## Vorschlaege
+## Vorschläge
 
 * Voerschlaege fuer neue Aufgaben bitte unter www.debianforum.de im Forum schreiben oder im Unterordner vorschlaege ins git einchecken.
 
