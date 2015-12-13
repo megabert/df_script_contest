@@ -31,6 +31,6 @@
 
 ## Lizenz
 
-Lösungen im debianforum.de im Scripting-Contest dürfen nur eigene Arbeiten sein. Nicht authorisierter Fremdcode wird entfernt. Grundsätzlich stehen alle veröffentlichten Lösungen unter der GNU GPL und werden unter dieser Lizenz hier aufgenommen, es sei denn, der Autor wählt eine andere Lizenz und schreibt die gewählten Lizenzbedingungen im Anfangsteil seiner Lösungsdatei(en).
+Lösungen im debianforum.de im Scripting-Contest dürfen nur eigene Arbeiten sein. Nicht authorisierter Fremdcode wird entfernt. Grundsätzlich stehen alle veröffentlichten Lösungen unter der MIT-Lizenz und werden unter dieser Lizenz hier aufgenommen, es sei denn, der Autor wählt eine andere Lizenz und schreibt die gewählten Lizenzbedingungen im Anfangsteil seiner Lösungsdatei(en).
 
 
